@@ -161,7 +161,7 @@ public class DetectCycle {
 }
 ```
 ## 相交链表
-判断两个链表相交的起始节点，该题的具体题目可以点击此[链接]。(https://leetcode-cn.com/explore/learn/card/linked-list/194/two-pointer-technique/746/)<br>
+判断两个链表相交的起始节点，该题的具体题目可以点击此[链接](https://leetcode-cn.com/explore/learn/card/linked-list/194/two-pointer-technique/746/)。<br>
 ```java
 输入：intersectVal = 8, listA = [4,1,8,4,5], listB = [5,0,1,8,4,5], skipA = 2, skipB = 3
 输出：Reference of the node with value = 8
@@ -483,7 +483,7 @@ class DoubleList {
 }
 ```
 ## 复制带随机指针的链表
-给定一个链表，每个节点包含一个额外增加的随机指针，该指针可以指向链表中的任何节点或空节点。该题的具体示意图[点此链接观看]。(https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/766/)<br>
+给定一个链表，每个节点包含一个额外增加的随机指针，该指针可以指向链表中的任何节点或空节点。该题的具体示意图[点此链接观看](https://leetcode-cn.com/explore/learn/card/linked-list/197/conclusion/766/)。<br>
 要求返回这个链表的 深拷贝。 <br>
 我们用一个由 n 个节点组成的链表来表示输入/输出中的链表。每个节点用一个 \[val, random_index] 表示：<br>
 val：一个表示 Node.val 的整数。<br>
